@@ -1,6 +1,10 @@
 
 # Instructions to run the program
 
+### files description 
+> Board.java - Class Board is used to represent the 2D grid of cells
+> Life.java - Class Life includes the logic which is given in the assignment
+
 ### Code is written as a simple java program use cmd / terminal to run and execute it
 ⦿ javac Life.java <br>
 ⦿ java Life <br>
