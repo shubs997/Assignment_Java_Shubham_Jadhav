@@ -7,8 +7,15 @@
 ⦿ enter no of generations for the program to run (preferably 100) <br>
 ⦿ Press CTRL+Z to end the program <br>
 
-⦿ In the Board dead cell is represented by -  "."
-               alive cell is represented by -  "0"
+⦿ In the Board -
+dead cell is represented by  -  "."<br>
+alive cell is represented by -  "0"
    
-⦿ At each new generation the rules are applied to the entire Board 
+⦿ At each new generation the rules are applied to the entire Board <br>
 ⦿ and the new state of cells is calculated.
+
+### Output - after running the program
+![alt text](https://raw.githubusercontent.com/shubs997/Assignment_Java_Shubham_Jadhav/main/output_before.png)
+
+### Output - after all generations are over
+![alt text](https://raw.githubusercontent.com/shubs997/Assignment_Java_Shubham_Jadhav/main/output_after.png)
