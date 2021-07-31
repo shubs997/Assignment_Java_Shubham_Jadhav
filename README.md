@@ -6,3 +6,9 @@
 ⦿ java Life <br>
 ⦿ enter no of generations for the program to run (preferably 100) <br>
 ⦿ Press CTRL+Z to end the program <br>
+
+⦿ In the Board dead cell is represented by -  "."
+               alive cell is represented by -  "0"
+   
+⦿ At each new generation the rules are applied to the entire Board 
+⦿ and the new state of cells is calculated.

@@ -2,6 +2,13 @@
  * Class Board is used to represent the 2D grid of cells
  * it is a POJO (plain old java object) class 
  * the object of Board is used to fill and display the cells.
+ * 
+ * In the Board dead cell is represented by -  "."
+ *              alive cell is represented by - "0"
+ * 
+ * At each new generation the rules are applied to the entire Board 
+ * and the new state of cells is calculated.
+ * 
  */
 public class Board
 {
