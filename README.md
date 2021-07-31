@@ -17,5 +17,6 @@ alive cell is represented by -  "0"
 ### Output - after running the program
 ![alt text](https://raw.githubusercontent.com/shubs997/Assignment_Java_Shubham_Jadhav/main/output_before.png)
 
+
 ### Output - after all generations are over
 ![alt text](https://raw.githubusercontent.com/shubs997/Assignment_Java_Shubham_Jadhav/main/output_after.png)
